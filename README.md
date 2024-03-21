@@ -30,15 +30,19 @@ This project aims to predict the price of flats in a city using machine learning
 
 ## Contributing
 
+
 - Fork the repository.
-- Create a new branch (`git checkout -b feature`).
-- Make your changes and commit (`git commit -am 'Add new feature'`).
-- Push to the branch (`git push origin feature`).
+- Create a new branch
+- `git checkout -b feature`
+- Make your changes and commit 
+- `git commit -am 'Add new feature'`
+- Push to the branch 
+- `git push origin feature`
 - Create a pull request.
 
 ## Authors
 
-- [Praveen](www.linkedin.com/in/gone-praveen-kumar-03390a279)
+- [Praveen](www.linkedin.com/in/gonepraveen)
 
 ## License
 
