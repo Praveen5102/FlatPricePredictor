@@ -42,7 +42,7 @@ This project aims to predict the price of flats in a city using machine learning
 
 ## Authors
 
-- [Praveen](www.linkedin.com/in/gonepraveen)
+- [Praveen]("www.linkedin.com/in/gonepraveen")
 
 ## License
 
